@@ -6,4 +6,4 @@
 4. Go to Nexploit app and check if a scan started.
 
 
-Bug lala lalalala
+Bug <bug> 1.13.22
